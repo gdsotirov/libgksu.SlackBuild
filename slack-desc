@@ -1,0 +1,11 @@
+libgksu1.2: GKSu (an authorization library)
+libgksu1.2:
+libgksu1.2: GKSu is a library that provides a GTK+ frontend to su and sudo. It
+libgksu1.2: supports login shells and preserving environment when acting as a
+libgksu1.2: su frontend. It is useful for applications that need to ask the user
+libgksu1.2: for its password or run another application as another user.
+libgksu1.2:
+libgksu1.2:
+libgksu1.2:
+libgksu1.2: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libgksu1.2:

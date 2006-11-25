@@ -6,8 +6,8 @@
 
 . /etc/slack-package.conf
 
-NAME=libgksu1.2
-VERSION=1.3.8
+NAME=libgksu
+VERSION=2.0.3
 BUILD=1
 
 TMP=${TMP:-/tmp}
